@@ -97,12 +97,6 @@ Total tests: 9. Passed: 9. Failed: 0. Skipped: 0.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ✍️ Author
 
 Built by [Kavit Gami](https://github.com/kavitgami)
