@@ -4,14 +4,9 @@ using System.Text;
 
 namespace OldPhonePad
 {
-    /// <summary>
-    /// Provides functionality to decode text input from an old-style phone keypad.
-    /// </summary>
+
     public static class PhonePad
     {
-        /// <summary>
-        /// Decodes a string of key presses from an old phone keypad into text.
-        /// </summary>
         /// <param name="input">The input string representing key presses (ends with '#').</param>
         /// <returns>The decoded message as a string.</returns>
         public static string Decode(string input)
@@ -40,13 +35,13 @@ namespace OldPhonePad
             {
                 if (ch == '#')
                 {
-                    // Finalize last key press before sending
+                    
                     AppendCharacter();
                     break;
                 }
                 else if (ch == '*')
                 {
-                    // Backspace
+                   
                     AppendCharacter();
                     if (result.Length > 0)
                         result.Remove(result.Length - 1, 1);
@@ -55,7 +50,7 @@ namespace OldPhonePad
                 }
                 else if (ch == ' ')
                 {
-                    // Pause - finalize current character
+                 
                     AppendCharacter();
                     prevKey = '\0';
                     pressCount = 0;
@@ -73,7 +68,6 @@ namespace OldPhonePad
                         pressCount = 1;
                     }
                 }
-                // Ignore other characters
 
             }
 
