@@ -1,0 +1,15 @@
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/bin/Debug/net8.0/OldPhonePad
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/bin/Debug/net8.0/OldPhonePad.deps.json
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/bin/Debug/net8.0/OldPhonePad.runtimeconfig.json
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/bin/Debug/net8.0/OldPhonePad.dll
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/bin/Debug/net8.0/OldPhonePad.pdb
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfoInputs.cache
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfo.cs
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.csproj.CoreCompileInputs.cache
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.sourcelink.json
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.dll
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/refint/OldPhonePad.dll
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.pdb
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/OldPhonePad.genruntimeconfig.cache
+/Users/kavitgami/Documents/Projects/OldPhonePad/OldPhonePad/obj/Debug/net8.0/ref/OldPhonePad.dll
